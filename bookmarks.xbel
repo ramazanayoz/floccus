@@ -8,36 +8,36 @@
   <bookmark href="https://chatgpt.com/auth/login?next=%2F%3Flightweight_authenticated%3D1%26mweb_fallback%3D1" id="19">
     <title>ChatGPT</title>
   </bookmark>
-  <bookmark href="https://www.reddit.com/" id="15">
-    <title>Reddit - The heart of the internet</title>
-  </bookmark>
-  <bookmark href="https://hagezi-mirror.dnsbunker.org/" id="13">
-    <title>HaGeZi DNS Blocklist Mirror - Updated every 4-8h</title>
-  </bookmark>
 </folder>
 <folder id="2">
   <title>Window 1</title>
-  <bookmark href="https://github.com/ramazanayoz/floccus/tree/main" id="5">
-    <title>ramazanayoz/floccus</title>
-  </bookmark>
-  <bookmark href="https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists-legacy@latest/" id="14">
-    <title>undefined</title>
+  <bookmark href="https://www.reddit.com/" id="15">
+    <title>Reddit - The heart of the internet</title>
   </bookmark>
 </folder>
 <folder id="9">
   <title>Window 2</title>
+  <bookmark href="https://hagezi-mirror.dnsbunker.org/" id="13">
+    <title>HaGeZi DNS Blocklist Mirror - Updated every 4-8h</title>
+  </bookmark>
 </folder>
 <folder id="12">
   <title>Window 3</title>
+  <bookmark href="https://github.com/ramazanayoz/floccus/tree/main" id="5">
+    <title>ramazanayoz/floccus</title>
+  </bookmark>
 </folder>
 <folder id="16">
   <title>Window 4</title>
-  <bookmark href="https://floccus.org/faq/" id="6">
-    <title>Frequently Asked Questions - Floccus bookmarks sync</title>
+  <bookmark href="https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists-legacy@latest/" id="14">
+    <title>undefined</title>
   </bookmark>
 </folder>
 <folder id="17">
   <title>Window 5</title>
+  <bookmark href="https://floccus.org/faq/" id="6">
+    <title>Frequently Asked Questions - Floccus bookmarks sync</title>
+  </bookmark>
 </folder>
 <folder id="20">
   <title>Window 6</title>
