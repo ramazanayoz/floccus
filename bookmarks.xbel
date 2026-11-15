@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
+<xbel version="1.0">
+<!--- highestId :8: for Floccus bookmark sync browser extension -->
+
+<folder id="1">
+  <title>Window 0</title>
+  <bookmark href="https://github.com/ramazanayoz/floccus/tree/main" id="5">
+    <title>ramazanayoz/floccus</title>
+  </bookmark>
+</folder>
+<folder id="2">
+  <title>Window 1</title>
+  <bookmark href="https://floccus.org/faq/" id="6">
+    <title>Frequently Asked Questions - Floccus bookmarks sync</title>
+  </bookmark>
+</folder>
+<folder id="3">
+  <title>Window 2</title>
+  <bookmark href="moz-extension://4366a5c8-c448-4817-9aaf-2ae71d668a0e/dist/html/options.html#/options/17947361308680.9350890886589485" id="7">
+    <title>Floccus bookmark sync</title>
+  </bookmark>
+</folder>
+<folder id="4">
+  <title>Window 3</title>
+  <bookmark href="moz-extension://4366a5c8-c448-4817-9aaf-2ae71d668a0e/dist/html/options.html#/options/17947361308680.9350890886589485" id="8">
+    <title>Floccus bookmark sync</title>
+  </bookmark>
+</folder>
+</xbel>
