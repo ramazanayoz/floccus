@@ -8,18 +8,18 @@
   <bookmark href="https://hagezi-mirror.dnsbunker.org/" id="13">
     <title>HaGeZi DNS Blocklist Mirror - Updated every 4-8h</title>
   </bookmark>
+</folder>
+<folder id="2">
+  <title>Window 1</title>
   <bookmark href="https://github.com/ramazanayoz/floccus/tree/main" id="5">
     <title>ramazanayoz/floccus</title>
   </bookmark>
 </folder>
-<folder id="2">
-  <title>Window 1</title>
+<folder id="9">
+  <title>Window 2</title>
   <bookmark href="https://floccus.org/faq/" id="6">
     <title>Frequently Asked Questions - Floccus bookmarks sync</title>
   </bookmark>
-</folder>
-<folder id="9">
-  <title>Window 2</title>
 </folder>
 <folder id="12">
   <title>Window 3</title>
