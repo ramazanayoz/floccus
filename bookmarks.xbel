@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :17: for Floccus bookmark sync browser extension -->
+<!--- highestId :18: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Window 0</title>
@@ -10,6 +10,9 @@
   </bookmark>
   <bookmark href="https://hagezi-mirror.dnsbunker.org/" id="13">
     <title>HaGeZi DNS Blocklist Mirror - Updated every 4-8h</title>
+  </bookmark>
+  <bookmark href="https://chatgpt.com/?lightweight_authenticated=1&amp;mweb_fallback=1" id="18">
+    <title>ChatGPT</title>
   </bookmark>
 </folder>
 <folder id="2">
