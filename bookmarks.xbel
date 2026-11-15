@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :8: for Floccus bookmark sync browser extension -->
+<!--- highestId :10: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Window 0</title>
@@ -13,6 +13,12 @@
   <title>Window 1</title>
   <bookmark href="https://floccus.org/faq/" id="6">
     <title>Frequently Asked Questions - Floccus bookmarks sync</title>
+  </bookmark>
+</folder>
+<folder id="9">
+  <title>Window 2</title>
+  <bookmark href="https://github.com/gorhill/uMatrix" id="10">
+    <title>gorhill/uMatrix: uMatrix: Point and click matrix to filter net requests according to source, destination and type</title>
   </bookmark>
 </folder>
 </xbel>
