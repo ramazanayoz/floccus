@@ -14,6 +14,9 @@
   <bookmark href="https://chatgpt.com/auth/login?next=%2F%3Flightweight_authenticated%3D1%26mweb_fallback%3D1" id="19">
     <title>ChatGPT</title>
   </bookmark>
+  <bookmark href="https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists-legacy@latest/" id="14">
+    <title>undefined</title>
+  </bookmark>
 </folder>
 <folder id="9">
   <title>Window 2</title>
@@ -29,9 +32,6 @@
 </folder>
 <folder id="16">
   <title>Window 4</title>
-  <bookmark href="https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists-legacy@latest/" id="14">
-    <title>undefined</title>
-  </bookmark>
 </folder>
 <folder id="17">
   <title>Window 5</title>
