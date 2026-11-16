@@ -5,11 +5,11 @@
 
 <folder id="1">
   <title>Window 0</title>
-  <bookmark href="https://www.reddit.com/" id="15">
-    <title>Reddit - The heart of the internet</title>
-  </bookmark>
   <bookmark href="https://github.com/gorhill/uMatrix" id="10">
     <title>gorhill/uMatrix: uMatrix: Point and click matrix to filter net requests according to source, destination and type</title>
+  </bookmark>
+  <bookmark href="https://www.reddit.com/" id="15">
+    <title>Reddit - The heart of the internet</title>
   </bookmark>
 </folder>
 <folder id="2">
