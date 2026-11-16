@@ -8,6 +8,9 @@
   <bookmark href="https://www.reddit.com/" id="15">
     <title>Reddit - The heart of the internet</title>
   </bookmark>
+  <bookmark href="https://github.com/gorhill/uMatrix" id="10">
+    <title>gorhill/uMatrix: uMatrix: Point and click matrix to filter net requests according to source, destination and type</title>
+  </bookmark>
 </folder>
 <folder id="2">
   <title>Window 1</title>
@@ -41,8 +44,5 @@
 </folder>
 <folder id="20">
   <title>Window 6</title>
-  <bookmark href="https://github.com/gorhill/uMatrix" id="10">
-    <title>gorhill/uMatrix: uMatrix: Point and click matrix to filter net requests according to source, destination and type</title>
-  </bookmark>
 </folder>
 </xbel>
